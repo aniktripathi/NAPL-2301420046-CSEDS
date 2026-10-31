@@ -1,3 +1,3 @@
-module napl2301420046
+module experiment7
 
-go 1.22
+go 1.26.6
